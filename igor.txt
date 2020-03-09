@@ -1,0 +1,8 @@
+# calculadoraJava
+PROJETO DE SOFTWARE 
+
+/**
+*@IGOR OLIVEIRA
+*@uHUUU
+*@return Double - valor do dia
+*/
